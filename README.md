@@ -8,3 +8,19 @@ Due to all these factors, there is a growing need for spatially accurate data on
 
 This study is an initial effort to use satellite imagery to understand the temporal and spatial variation of fog and low cloud observed in central and eastern China. For this, eight years of satellite data products were used. With hourly data of fog and low cloud cover (FLCC) stripped from the H8 cloud detection product, we generate an 8-year-long daytime FLCC product from 2015 to 2022. Explicit analyses on diurnal, monthly, seasonal and annual scales are further performed in this paper. In addition, seasonal/seasonal/annual  climate data were taken into account to assess future trends in the FLCC.
 
+## 2. Methodology
+
+### 2.1. Study area and data source
+
+### 2.2. Satellite-derived daytime fog and low cloud indices
+
+### 2.3. FLCC Contours and Elevation Profile
+
+## 3. Results
+
+## 4. Discussion
+
+## 5. Conclusion
+
+## Reference
+
